@@ -4,14 +4,14 @@
   var posts = document.getElementsByClassName('post-content');
   if (posts.length === 0) { return; }
 
-  var pubTime = new Date(times[0].dateTime);  /* ндуб╥╒╡╪й╠╪Д╢а */
-  var now = Date.now()  /* ╣╠г╟й╠╪Д╢а */
+  var pubTime = new Date(times[0].dateTime);  /* Ф√┤Г╚═Е▐▒Е╦┐Ф≈╤И≈╢Ф┬Ё */
+  var now = Date.now()  /* Е╫⌠Е┴█Ф≈╤И≈╢Ф┬Ё */
   var interval = parseInt(now - pubTime)
-  /* ╥╒╡╪й╠╪ДЁ╛╧Щж╦╤╗й╠╪Дё╗╨ацКё╘ */
+  /* Е▐▒Е╦┐Ф≈╤И≈╢Х╤┘Х©┤Ф▄┤Е╝ Ф≈╤И≈╢О╪┬Ф╞╚Г╖▓О╪┴ */
   if (interval > 3600*24*30*1000){
     var days = parseInt(interval / 86400000)
     posts[0].innerHTML = '<div class="note note-warning" style="font-size:0.9rem"><p>' +
-      '<div class="h6">ндубй╠п╖птлАй╬</div><p>уБйгр╩ф╙╥╒╡╪сз ' + days + ' лЛг╟╣дндубё╛╡©╥жпео╒©идэря╥╒иЗ╦д╠Дё╛гКв╒рБуГ╠П║ё' +
+      '<div class="h6">Ф√┤Г╚═Ф≈╤Ф∙┬Ф─╖Ф▐░Г╓╨</div><p>Х©≥Ф≤╞Д╦─Г╞┤Е▐▒Е╦┐Д╨▌ ' + days + ' Е╓╘Е┴█Г └Ф√┤Г╚═О╪▄И┐╗Е┬├Д©║Ф│╞Е▐╞Х┐╫Е╥╡Е▐▒Г■÷Ф■╧Е▐≤О╪▄Х╞╥ФЁ╗Ф└▐Г■└Е┬╚Ц─┌' +
       '</p></p></div>' + posts[0].innerHTML;
   }
 })();
