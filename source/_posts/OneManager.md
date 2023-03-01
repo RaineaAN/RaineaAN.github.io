@@ -2,8 +2,8 @@
 title: OneManager高级设置
 date: 2021-08-18 10:00:00
 tags: [Onedrive]
-index_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/Blog-img/20220101//GjMcnK.jpg
-banner_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/Blog-img/20220101//GjMcnK.jpg
+cover: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/Blog-img/20220101//GjMcnK.jpg
+top_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/Blog-img/20220101//GjMcnK.jpg
 hide: false
 ---
 

@@ -3,7 +3,7 @@ title: Docker 镜像使用 (4)
 date: 2022-02-04 15:37:45
 categories: [学习笔记,Docker]
 tags: [Docker学习笔记]
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg  
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg  
 ---
 
 # Docker 镜像使用

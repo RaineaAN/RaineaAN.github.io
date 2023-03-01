@@ -3,8 +3,8 @@ title: Markdown 标题 (1)
 date: 2021-09-17 09:57:45
 categories: [学习笔记,Markdown]
 tags: [Markdown学习笔记,Markdown]
-index_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//md2.gif
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+cover: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//md2.gif
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
 ---
 
 # Markdown 标题

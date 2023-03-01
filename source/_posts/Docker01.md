@@ -3,8 +3,8 @@ title: Docker架构学习笔记 (1)
 date: 2022-02-03 10:58:45
 categories: [学习笔记,Docker]
 tags: [Docker学习笔记]
-index_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+cover: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
 ---
 
 # Docker 架构

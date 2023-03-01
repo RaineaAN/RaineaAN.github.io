@@ -1,7 +1,6 @@
 ---
 title: about
-date: 2021-08-17 09:57:45
-layout: about
+date: 2023-03-01 22:16:52
 ---
 
 ### 个人信息
@@ -19,10 +18,8 @@ layout: about
 
 主要浪迹于[酷安](http://www.coolapk.com/u/1838118)，[哔哩哔哩](https://space.bilibili.com/191358312)。
 
-海外平台涉及 twitter，Telegram 。
+海外平台涉及 ~~twitter~~，Telegram,V2ex 。
 
 <!-- ### 我的项目
-
-
 [OneManager网盘](https://pan.hennessey.xyz/) 主要拿来当文件备份用了，同时也是个图床
 还有其他一些Linux启动脚本等等... -->

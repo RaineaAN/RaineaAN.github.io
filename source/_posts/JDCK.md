@@ -1,7 +1,7 @@
 ---
 title: 京东CK提交帮助手册
 date: 2022-10-31 09:57:45
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
 ---
 
 **本工具（京东Ck提交）旨在引导帮助用户方便快捷的抓取提交Cookie，仅个人使用，不做商业用途**

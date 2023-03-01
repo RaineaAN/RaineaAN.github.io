@@ -3,8 +3,8 @@ title: Markdown 区块 (4)
 date: 2021-09-20 09:57:45
 categories: [学习笔记,Markdown]
 tags: [Markdown学习笔记,Markdown]
-index_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//E3BF6399-6483-4C7A-8502-AE75E8D66C96.jpg
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg 
+cover: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//E3BF6399-6483-4C7A-8502-AE75E8D66C96.jpg
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg 
 ---
 
 # Markdown 区块

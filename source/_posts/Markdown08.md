@@ -3,8 +3,8 @@ title: Markdown 表格 (8)
 date: 2021-09-24 09:57:45
 categories: [学习笔记,Markdown]
 tags: [Markdown学习笔记,Markdown]
-index_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//23EACC50-38E0-4284-B99A-6BC22E284BAC.jpg
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+cover: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//23EACC50-38E0-4284-B99A-6BC22E284BAC.jpg
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
 ---
 
 # Markdown 表格

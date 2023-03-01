@@ -3,8 +3,8 @@ title: Docker 容器连接 (5)
 date: 2022-02-05 09:57:45
 categories: [学习笔记,Docker]
 tags: [Docker学习笔记]
-banner_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//docker-net.png
-index_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//docker-net.png
+top_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//docker-net.png
+cover: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//docker-net.png
 ---
 
 # Docker 容器连接

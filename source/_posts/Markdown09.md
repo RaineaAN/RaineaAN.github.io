@@ -3,8 +3,8 @@ title: Markdown 高级技巧 (9)
 date: 2021-09-25 09:57:45
 categories: [学习笔记,Markdown]
 tags: [Markdown学习笔记,Markdown]
-index_img: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//A9031CEB-04DB-4822-9C98-2E99489D3662.jpeg
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+cover: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/img//A9031CEB-04DB-4822-9C98-2E99489D3662.jpeg
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
 ---
 
 # Markdown 高级技巧

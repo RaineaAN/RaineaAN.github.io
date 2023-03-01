@@ -3,7 +3,7 @@ title: Docker 仓库管理 (6)
 date: 2022-02-13 02:24:45
 categories: [学习笔记,Docker]
 tags: [Docker学习笔记]
-banner_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
 ---
 
 # Docker 仓库管理
