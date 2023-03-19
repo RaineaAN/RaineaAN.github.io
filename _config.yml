@@ -103,5 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:hennessey-v/hennessey-v.github.io.git
+  repo: git@github.com:hennessey-v/Hennessey-V.github.io.git
   branch: master
