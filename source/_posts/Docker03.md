@@ -3,7 +3,7 @@ title: Docker 容器使用 (3)
 date: 2022-02-04 08:57:45
 categories: [学习笔记,Docker]
 tags: [Docker学习笔记]
-top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+top_img: https://121.40.96.38:8005/i/2024/07/669f5807e2ff8.jpg
 ---
 
 # Docker 容器使用

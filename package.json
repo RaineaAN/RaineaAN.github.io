@@ -5,7 +5,7 @@
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "hexo clean && hexo deploy",
     "server": "hexo server"
   },
   "hexo": {
@@ -23,7 +23,6 @@
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-butterfly": "^4.7.0",
-    "hexo-theme-landscape": "^0.0.3"
+    "hexo-theme-butterfly": "^4.13.0"
   }
 }

@@ -3,7 +3,7 @@ title: Docker Hello World (2)
 date: 2022-02-03 11:20:45
 categories: [学习笔记,Docker]
 tags: [Docker学习笔记]
-top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+top_img: https://121.40.96.38:8005/i/2024/07/669f5807e2ff8.jpg
 ---
 
 # Docker Hello World

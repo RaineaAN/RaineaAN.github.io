@@ -3,7 +3,7 @@ title: Termux/Linux搭建Hexo博客
 date: 2021-08-17 09:57:45
 tags: [Hexo,Termux,Linux]
 cover: https://hennessey02.coding.net/p/Pic/d/Pic01/git/raw/master/Blog-img/20220101//Termux.png
-top_img: https://cdn.staticaly.com/gh/hennessey-v/pic@master/bg/blue-lake-v1.jpg
+top_img: https://121.40.96.38:8005/i/2024/07/669f5807e2ff8.jpg
 hide: false
 ---
 
