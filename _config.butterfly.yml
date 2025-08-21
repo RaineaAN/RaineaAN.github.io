@@ -37,7 +37,7 @@ highlight_fullpage: true # true: add button to toggle full page
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/hennessey-v || Github
+  fab fa-github: https://github.com/RaineaA || Github
   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
@@ -45,21 +45,21 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://s2.loli.net/2024/09/04/hprsAui5ly2bQIn.png
+favicon: https://pic.hapy.eu.org/r/2025/03/67ce36b2e68b9.png
 
 # Avatar (頭像)
 avatar:
-  img: https://s2.loli.net/2024/09/04/zgN4oGuCYkFqL63.png
+  img: https://pic.hapy.eu.org/r/2024/07/669f5802bf6cb.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://s2.loli.net/2024/09/04/JAlOt46B57bQnRr.jpg #2k
+index_img: https://pic.hapy.eu.org/r/2024/07/669f580ea4516.jpg #2k
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://s2.loli.net/2024/09/04/INonXJ2mZMkRqK8.jpg #1080p
+default_top_img: https://pic.hapy.eu.org/r/2024/07/669f5807e2ff8.jpg #1080p
 
 # The banner image of archive page
 archive_img:
@@ -497,7 +497,7 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: hennessey-v/giscus
+  repo: RaineaA/giscus
   repo_id: R_kgDOIDnw-w
   category_id: DIC_kwDOIDnw-84CRmiQ
   theme:
